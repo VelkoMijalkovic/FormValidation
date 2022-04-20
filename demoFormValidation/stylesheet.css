@@ -1,0 +1,36 @@
+input[type=number] {
+    -moz-appearance: textfield;
+  }
+
+input[type=text] {
+    width: 30%;
+}
+label {
+    margin-bottom: 20px;
+    width: 8%;
+    display: inline-flex
+}
+input {
+    display: inline-block;
+}
+select {
+    appearance: white;
+}
+
+#passworduser {
+    width: 15%;
+}
+input[type=submit] {
+    align-self: middle;
+    border-radius: 0px;
+    font-size: 14px;
+}
+
+.buttonHolder{ 
+    
+    margin-top: 10px;
+    width: 50%;
+    margin-left: 20%;
+    margin-right: 30%;
+}
+
